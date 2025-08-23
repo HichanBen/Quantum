@@ -13,6 +13,6 @@ It covers:
 Clone the repository and install dependencies:
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Hichambenamer13/Quantum/>
 cd Qiskit_Tutorial
 pip install -r requirements.txt
