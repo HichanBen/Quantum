@@ -7,6 +7,7 @@ It covers:
 - Bell states and entanglement
 - The CHSH game (Bell inequality test)
 - Quantum computing basics and measurements
+- simulations  the equations  of Schrödinger 
 
 ## Installation
 
