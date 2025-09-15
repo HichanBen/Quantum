@@ -81,5 +81,5 @@ Advanced simulations and numerical experiments.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/HichamBen/Quantum.git
+   git clone https://github.com/HichanBen/Quantum.git
    cd Quantum
