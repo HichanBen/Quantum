@@ -5,7 +5,7 @@ This repository serves as both a learning archive and a reference for key quantu
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ### `Algorithmes`
 Core quantum algorithms and variational methods.
@@ -77,7 +77,7 @@ Advanced simulations and numerical experiments.
 
 ---
 
-## 🛠️ Getting Started
+##  Getting Started
 
 1. **Clone the repository**
    ```bash
