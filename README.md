@@ -1,4 +1,4 @@
-# Qiskit Tutorial: Quantum Circuits, Bell States, and CHSH Game
+# Qiskit Tutorial: Quantum Circuits, Bell States, and CHSH Game and VQE QAOA
 
 This repository is a beginner-to-intermediate tutorial for learning **Qiskit** and quantum computing concepts.  
 It covers:
@@ -15,6 +15,6 @@ It covers:
 Clone the repository and install dependencies:
 
 ```bash
-git clone <https://github.com/Hichambenamer13/Quantum/>
+git clone <https://github.com/HichanBen/Quantum/>
 cd Qiskit_Tutorial
 pip install -r requirements.txt
