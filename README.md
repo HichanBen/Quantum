@@ -1,20 +1,25 @@
-# Qiskit Tutorial: Quantum Circuits, Bell States, and CHSH Game and VQE QAOA
+## Qiskit
 
-This repository is a beginner-to-intermediate tutorial for learning **Qiskit** and quantum computing concepts.  
-It covers:
+This folder contains Jupyter notebooks and Python scripts exploring
+quantum computing concepts and algorithms using **Qiskit**, IBM’s open-source
+quantum development framework.
 
-- Creating quantum circuits
-- Bell states and entanglement
-- The CHSH game (Bell inequality test)
-- Quantum computing basics and measurements
-- simulations  the equations  of Schrödinger
-- Application of VQE in oscillator harmonic 
+### Contents
+- **VQE_single_qubit_qiskit.ipynb**  
+  Demonstrates the Variational Quantum Eigensolver (VQE) on a single-qubit
+  Hamiltonian, including state preparation, ansatz design, and optimization.
 
-## Installation
+- **qaoa.ipynb**  
+  Implements the Quantum Approximate Optimization Algorithm (QAOA) for
+  combinatorial optimization problems.
 
-Clone the repository and install dependencies:
+### Highlights
+- Examples of creating and simulating quantum circuits.
+- Step-by-step use of Qiskit primitives (`Estimator`, `Sampler`) with
+  classical optimizers.
+- Clear, educational notebooks suitable for learning or as a starting
+  point for new projects.
 
-```bash
-git clone <https://github.com/HichanBen/Quantum/>
-cd Qiskit_Tutorial
-pip install -r requirements.txt
+These resources are ideal for anyone beginning with Qiskit or
+experimenting with variational algorithms on real or simulated
+quantum hardware.
