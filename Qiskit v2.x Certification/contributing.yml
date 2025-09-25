@@ -5,7 +5,7 @@ description: "Guidelines for adding questions or fixing errors in the Qiskit v2.
 steps:
   - name: Clone the repository
     command: |
-      git clone https://github.com/hichanBen//qiskit-v2x-practice-exam.git
+      git clone https://github.com/hichanBen/Quantum/Qiskit v2.x Certification.git
       cd qiskit-v2x-practice-exam
   - name: Make your changes
     details: "Edit or add questions, update the PDF, or fix typos."
