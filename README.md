@@ -76,6 +76,11 @@ Advanced simulations and numerical experiments.
   - **wavepacket_sim.py** – Gaussian wave packet evolution and visualization.
 
 ---
+### `Qiskit v2.x Certification`
+ - **Note for Qiskit Advocates**  
+ - **This repository is designed to help Qiskit Advocates and community members
+ - **prepare for the **Qiskit v2.x Certification**.  
+ - **It is **not** affiliated with IBM or the official Qiskit certification team.
 
 ##  Getting Started
 
