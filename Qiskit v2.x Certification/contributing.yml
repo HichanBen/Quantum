@@ -1,0 +1,18 @@
+# contributing.yml
+title: "Contributing"
+description: "Guidelines for adding questions or fixing errors in the Qiskit v2.x practice exam."
+
+steps:
+  - name: Clone the repository
+    command: |
+      git clone https://github.com/hichanBen//qiskit-v2x-practice-exam.git
+      cd qiskit-v2x-practice-exam
+  - name: Make your changes
+    details: "Edit or add questions, update the PDF, or fix typos."
+  - name: Commit and push
+    command: |
+      git commit -am "Add new questions"
+      git push origin main
+notes:
+  - "Submit a pull request from your fork to propose the changes."
+  - "Replace <your-username> with your GitHub handle."
