@@ -36,6 +36,6 @@ The PDF can be used for self-study, workshops, or group preparation sessions.
 
 ---
 
-## 🗂 Repository Structure
+
 
 
